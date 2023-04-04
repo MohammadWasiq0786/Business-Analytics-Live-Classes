@@ -1,2 +1,2 @@
 # Business-Analytics
-Here I upload Business Analytics iNeuron.ai Course 
+Here I upload Business Analytics iNeuron.ai Course Live Classes
